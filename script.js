@@ -1,0 +1,1 @@
+document.getElementById("footsan").innerHTML ="<p>&copy;  " + new Date().getFullYear() + " SanilSharma. All rights reserved.</p>";
